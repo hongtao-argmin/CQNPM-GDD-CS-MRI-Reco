@@ -51,9 +51,9 @@ python3 demo_CSMRIRecoGrad.py
 
 ## Key Insights from the Paper
 
-1. **Introduces Convergent Complex Quasi-Newton Proximal Methods (CQNPM) for integrating gradient-driven denoisers into complex-valued compressed sensing MRI reconstruction**  
+1. **Introduce Convergent Complex Quasi-Newton Proximal Methods (CQNPM) for integrating gradient-driven denoisers into complex-valued compressed sensing MRI reconstruction**  
 
-2. **Develops a Hermitian positive-definite Hessian approximation to ensure stability and provable convergence in the complex domain, even for nonconvex problems**  
+2. **Develop a Hermitian positive-definite Hessian approximation to ensure stability and provable convergence in the complex domain, even for nonconvex problems**  
 
 3. **Experiments on Cartesian and non-Cartesian MRI reconstruction show that CQNPM achieves faster and more reliable convergence than existing first-order approaches**
    
