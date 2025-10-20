@@ -64,7 +64,7 @@ python3 demo_CSMRIRecoGrad.py
 If you find this work useful, please cite:
 
 ```bibtex
-@article{hong2025nystrom-precond,
+@article{hong2025CQNPMCSMRI,
   title   = {Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing MRI Reconstruction},
   author  = {Hong, Tao and Xu, Zhaoyi and Chun, Se Young and Hernandez-Garcia Luis and Fessler, Jeffrey A.},
   journal = {IEEE Transactions on Computational Imaging},
