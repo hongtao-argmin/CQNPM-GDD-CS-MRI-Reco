@@ -68,8 +68,10 @@ If you find this work useful, please cite:
   title   = {Convergent Complex Quasi-{N}ewton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing {MRI} Reconstruction},
   author  = {Hong, Tao and Xu, Zhaoyi and Chun, Se Young and Hernandez-Garcia Luis and Fessler, Jeffrey A.},
   journal = {IEEE Transactions on Computational Imaging},
+  volume = {11},
+  pages = {1534 -- 1547},
+  month = {October},
   year    = {2025},
-  note    = {to appear},
   eprint  = {2505.04820},
   archivePrefix = {arXiv},
   primaryClass  = {eess.IV}
