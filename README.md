@@ -1,7 +1,7 @@
 # PyTorch Implementation of Gradient-Driven Denoisers based CS MRI reconstruction.
 
 **Reference**  
-[Tao Hong](https://hongtao-argmin.github.io), Zhaoyi Xu, [Se Young Chun](https://icl.snu.ac.kr), Luis Hernandez-Garcia, and [Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/), ``[Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing MRI Reconstruction](https://arxiv.org/abs/2505.04820)'', *to appear in* **IEEE Transactions on Computational Imaging**, 2025. 
+[Tao Hong](https://hongtao-argmin.github.io), [Zhaoyi Xu](https://xu-zhaoyi.github.io), [Se Young Chun](https://icl.snu.ac.kr), Luis Hernandez-Garcia, and [Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/), ``[Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing MRI Reconstruction](https://arxiv.org/abs/2505.04820)'', *to appear in* **IEEE Transactions on Computational Imaging**, 2025. 
 Preprint: [https://arxiv.org/abs/2505.04820](https://arxiv.org/abs/2505.04820)
 
 [Project Website](https://hongtao-argmin.github.io/CQNPM-GD-CSMRI/)
